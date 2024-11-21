@@ -5,7 +5,7 @@ from time import sleep
 import json
 from dialog_flow import dialog_flow
 
-TOKEN = 'MTE4NzA2MjExNTc5NDY4MTg5OQ.G9qrOl.bK-xdv4L9P7Xye4g-VTH07BA1DGPvD2Nl6T7m4'
+TOKEN = ''
 
 CHANNEL_ID = 1219314677142781952
 
