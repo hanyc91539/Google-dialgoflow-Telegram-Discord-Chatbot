@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "coin-exchange-extension-d-lcks",
+  "private_key_id": "58cf24687bc36932a5cdab341dd1e7bfad4a77af",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCYAPjyG4V+9DCZ\nYyT7RGrNcJcVKzeOoN5D8zQJx69HYx1IxyRl+xO19YxlFrkrVs+kFGWJyrxAi6bd\nHaC08lOs4W/cdnEKwQaf7CBNADjD7ToOx9g6BbavgMPiarIyUxznmDuXJZBwh+jB\nKdX7gZ+lxpzIR3tD8VrnMdAeDxcqTzL4j/Hhy4GIGGbreZnFWPHdHC3xdZJS3q1w\nKjj1NLd7szdZNnzmikOCxf/ULSbeQszBc4hxAf7yW9101gJmZiqRqj3CYn2AgX/8\nEGOAoLNEn5EmWxxQ4J9rfoZ4m55EZrZXD7y6hV+rjG2tfmMxO3e1CLo7e+9xlLKE\nX76fdalpAgMBAAECggEACLlpkG/O8jHuxicAHOHY5XC0YzUnS6rlBu5jCrqoz0ab\njC1N5AKMp5Fv3O94cknZwhefmlCGDIhXa/KC4k/USKRpyLQNmenpSO2DDxhXqbso\nbWe/+9iPGzSfSZQJJUVK7+n3ZZ3009ihHdEaZISUlq23GvGrXANyzbk4sjj4geeS\nJtL372cFY3WbqvcrjFMvFVtEzLJaiTaxcDwqs/MM3f+t58u8T4FsCs6R1iisFTMo\nEVdZChOghohYRXX6e3VbhcWCFFP+4t95Ug3bJHaw5y0kjeZB9fpXZ04AuDX/e4sv\nlFr+90Ru9+VqXuW2PcOrsC3UqlVgW8VjkoJi5GReQQKBgQDGdhagXbiV2GgyNEIQ\nXHcKSViQs8vD4T944SisGvdpNTdq64EzhP/r7/oV4Ikwiz4xcEejYIlx72/Hqaiu\nRPgK5/fC9vXXEvngfTyfJlDgTfe5DfaJaLH/I1FJPQ3QNmDfo5v8FTrJkJLJm827\nyMDCl7sQg/7wK5TFRZ3c2nVrkQKBgQDEEshZn6PurqI2GxpffIBZiZl5yPeu04qs\n7Itn450+9X3QEkM/kHNV0oZzcn/6JO0tMw/CzWNyJtTkBcIKBQ+XrJ8gmE7Kx50v\nKfJp6oEBSTTyVCkZyCPqQEEcRy1Rz+iQvA5tJ5hcTT5t6F+Nrw+5PgEBmjhzIc9g\nx8t8GyUEWQKBgHccBoZm2VKtmBORg5jYNeWpkYr/Las5M+Pzlnp8kMLG2qTEBT4L\nc6GB3KFmqk/FMiVv0r7+QF9uKbM2YvN8lzXMdMnBeFiFngyafVizIVUN1kBtXeqo\nODP9WVrQVssA5/Ew+3w2rZqttzti0/4BBZeEgxPtdINmVJp1JsKXJmPRAoGBAKtu\nEKXrohUJsuHDiKd732xpljqYr5W3d0QB/VDz/YQSd9H4ZbupvG2JB+zga2x15Ljk\nMB+OHCiuMuy67BB+pEdksix5fkplhNS7xCs+0VQigZxuYREdn+ksDMGAqesh8KC7\nC5H8UIZDMxY9WW4zZXf88jxIbpqbMQnZJdx4j0DhAoGAQW1vKgP+1vmi2LBx/yns\nGyE9WXz0dn36gWymI3XWTerqP3e0caeZD3/l+Xv9e4kITN5JHutVVsnW90Wmkps9\npWTSMeS85uRgTpawMxGjtvjMIDzfCgZrO5DRA2udhkejDqBzIoKEuvmJm/UL/bgS\njB/szejn6N10lxulU2C8yYg=\n-----END PRIVATE KEY-----\n",
+  "client_email": "coin-exchange-browser-extensio@coin-exchange-extension-d-lcks.iam.gserviceaccount.com",
+  "client_id": "103525714912225632746",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/coin-exchange-browser-extensio%40coin-exchange-extension-d-lcks.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
